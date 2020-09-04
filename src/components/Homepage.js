@@ -6,7 +6,10 @@ import {styles} from '../styles/neomorphism';
 const divStyle = {
     //backgroundColor:    styles.backgroundColor,
     //color:              styles.color,
-    height:             '100vh'
+    height:             '100vh',
+    margin:             '0',
+    display:            'flex',
+    flexDirection:      'column'
 }
 
 export default class Homepage extends React.Component {
@@ -14,9 +17,6 @@ export default class Homepage extends React.Component {
         return (
             <div style={divStyle}>
                 <NavbarContainer />
-                <div>
-                    <h2>Our Most Popular Campgrounds!</h2>
-                </div>
                 <CampgroundsContainer />
             </div>
         )
