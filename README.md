@@ -1,2 +1,2 @@
-# yc-react
-YelpCamp React Front-End.
+# YelpCamp React
+Revamped YelpCamp frontend utilizing React.
