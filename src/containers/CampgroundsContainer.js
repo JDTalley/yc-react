@@ -20,7 +20,7 @@ export default class CampgroundsContainer extends React.Component {
     }
 
     componentDidMount() {
-        fetch("/api/campgrounds")
+        fetch("https://yelpcamp.jdtalley.com/api/campgrounds")
         .then(res => res.json())
         .then((result) => {
                 this.setState({
