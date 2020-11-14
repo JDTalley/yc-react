@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yc-react/static/css/main.69eda509.chunk.css",
+    "main.js": "/yc-react/static/js/main.ccfe8d30.chunk.js",
+    "main.js.map": "/yc-react/static/js/main.ccfe8d30.chunk.js.map",
+    "runtime-main.js": "/yc-react/static/js/runtime-main.8430bc43.js",
+    "runtime-main.js.map": "/yc-react/static/js/runtime-main.8430bc43.js.map",
+    "static/js/2.543b0d73.chunk.js": "/yc-react/static/js/2.543b0d73.chunk.js",
+    "static/js/2.543b0d73.chunk.js.map": "/yc-react/static/js/2.543b0d73.chunk.js.map",
+    "index.html": "/yc-react/index.html",
+    "precache-manifest.f018fd96dd6bda44b40eef6213e402cb.js": "/yc-react/precache-manifest.f018fd96dd6bda44b40eef6213e402cb.js",
+    "service-worker.js": "/yc-react/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/yc-react/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.543b0d73.chunk.js.LICENSE.txt": "/yc-react/static/js/2.543b0d73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8430bc43.js",
+    "static/js/2.543b0d73.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.ccfe8d30.chunk.js"
+  ]
+}
