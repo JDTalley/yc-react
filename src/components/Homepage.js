@@ -1,7 +1,6 @@
 import React from 'react';
 import NavbarContainer from '../containers/NavbarContainer';
-import CampgroundsContainer from '../containers/CampgroundsContainer';
-import {styles} from '../styles/neomorphism';
+import CampgroundsTest from './CampgroundsTest';
 
 const divStyle = {
     //backgroundColor:    styles.backgroundColor,
@@ -17,7 +16,7 @@ export default class Homepage extends React.Component {
         return (
             <div style={divStyle}>
                 <NavbarContainer />
-                <CampgroundsContainer />
+                <CampgroundsTest />
             </div>
         )
     }
